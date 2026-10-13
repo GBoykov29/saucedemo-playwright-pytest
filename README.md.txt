@@ -4,7 +4,8 @@ A professional UI automation testing framework built with **Python**, **Playwrig
 
 ---
 
-## 🚀 Features
+## 
+Features
 
 * **Page Object Model (POM):** Clean separation of test logic and web element locators for high maintainability.
 * **Pytest Fixtures:** Centralized environment setup and teardown, including reusable authentication fixtures (`conftest.py`).
